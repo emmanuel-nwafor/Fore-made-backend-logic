@@ -8,8 +8,4 @@ C:\xampp\htdocs\foremadeWebApp\
 ├── uploads/                # Product images
 ├── config/                 # Configuration files
 │   ├── db.php              # MySQL connection
-├── data/                   # Optional JSON files (if needed)
-│   ├── products.json       # Fallback or testing
-│   ├── users.json
-│   ├── orders.json
-├── index.php               # Optional landing page
+            # Optional landing page
